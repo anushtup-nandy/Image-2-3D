@@ -61,7 +61,7 @@ The tool accepts the following command-line arguments:
 
 1. **Generate a 3D model using Poisson Surface Reconstruction**:
    ```bash
-   python main.py --image_path /path/to/image.jpg --human_distance 5.0 --focal_length 1000 --sensor_width 36.0 --export_path output.obj --mesh_type poisson
+   python ./image-3d/main.py --image_path /path/to/image.jpg --human_distance 5.0 --focal_length 1000 --sensor_width 36.0 --export_path output.obj --mesh_type poisson
    ```
 
 2. **Generate a 3D model using Ball Pivoting Algorithm (BPA)**:
@@ -69,6 +69,7 @@ The tool accepts the following command-line arguments:
    python main.py --image_path /path/to/image.jpg --human_distance 5.0 --focal_length 1000 --sensor_width 36.0 --export_path output.obj --mesh_type ball_pivot
    ```
 
+3. Stand-alone single file implementations with slightly less optimized calculations are given inside `./images-3d-standalone`
 ---
 
 ## Output
