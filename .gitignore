@@ -1,0 +1,4 @@
+# .gitignore
+point_cloud.npy
+*.npy  # Ignore all .npy files (optional)
+*.obj
