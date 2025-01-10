@@ -96,11 +96,15 @@ The tool generates the following outputs:
 
 ### Outputs:
 
-For `./images/liberty.jpg`
+For `./images/liberty.jpg`, where it is assumed that the picture was taken from a distance (human_distance) of 100.0m approximately!
 ```
 Surface Area: 12546.145062465519 m²
 Dimensions (Width x Depth x Height): 25.90 m x 105.29 m x 108.68 m
 ```
+
+>Note that the real height of Statue of liberty is 95m!
+>Therefore, the error is roughly 11%
+
 | JPG | 3D reconstruction |
 |---------|---------|
 | ![Liberty jpg](./images/liberty.jpg/) | ![Liberty mesh](./images/liberty-mesh.png/) |
