@@ -101,8 +101,10 @@ For `./images/liberty.jpg`
 Surface Area: 12546.145062465519 m²
 Dimensions (Width x Depth x Height): 25.90 m x 105.29 m x 108.68 m
 ```
-
-![Liberty-jpg mesh](./images/liberty.jpg)
+| JPG | 3D reconstruction |
+|---------|---------|
+| ![Liberty jpg](./image3d/images/liberty.jpg/300) | ![Liberty mesh](./image3d/images/liberty-mesh.png/300) |
+| *Liberty jpg* | *Liberty mesh* |
 ---
 
 ## File Structure
