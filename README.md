@@ -94,6 +94,15 @@ The tool generates the following outputs:
 3. **Interactive Visualization**:
    - Opens a PyVista window to interactively explore the 3D model.
 
+### Outputs:
+
+For `./images/liberty.jpg`
+```
+Surface Area: 12546.145062465519 m²
+Dimensions (Width x Depth x Height): 25.90 m x 105.29 m x 108.68 m
+```
+
+![Liberty-jpg mesh](/home/anushtup/git-repos/rl-bullet-gym/image3d/images/liberty.jpg)
 ---
 
 ## File Structure
