@@ -2,3 +2,4 @@
 point_cloud.npy
 *.npy  # Ignore all .npy files (optional)
 *.obj
+/image-3d/__pycache__/
