@@ -103,7 +103,7 @@ Dimensions (Width x Depth x Height): 25.90 m x 105.29 m x 108.68 m
 ```
 | JPG | 3D reconstruction |
 |---------|---------|
-| ![Liberty jpg](./image3d/images/liberty.jpg/300) | ![Liberty mesh](./image3d/images/liberty-mesh.png/300) |
+| ![Liberty jpg](./images/liberty.jpg/300) | ![Liberty mesh](./images/liberty-mesh.png/300) |
 | *Liberty jpg* | *Liberty mesh* |
 ---
 
